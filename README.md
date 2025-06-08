@@ -48,8 +48,7 @@ Gestion_Solicitudes_Oracle_Apex/
 
 | Rol         | Usuario  | Contraseña |
 |-------------|----------|------------|
-| Administrador | `admin`  | `admin123` |
-| Usuario demo  | `demo`   | `demo123`  |
+| Usuario admin| `admin`  | `admin123` |
 
 ---
 
@@ -57,7 +56,7 @@ Gestion_Solicitudes_Oracle_Apex/
 
 **William Cubero Navarro**  
 👨‍💻 Ingeniero en Tecnologías de la Información  
-🔗 [LinkedIn](https://www.linkedin.com/in/devwilliamcn/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/william-cubero-navarro-75880727a/)  
 📧 w.cubero800@gmail.com
 
 ---
